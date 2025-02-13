@@ -1,21 +1,27 @@
 ---
-title: "Hello!"
+title: " "
 permalink: /
 path: /
-date: 2024-10-22
-last_modified_at: 2025-1-22
+date: 2025-2-14
+last_modified_at: 2025-2-14
 # excerpt: ""
 image:
 ---
 
-I am a third year PhD student at UC Berkeley, advised by Bernd Sturmfels. Before that I was at Amherst College, where I completed a senior thesis on elliptic pairs under the guidance of Jenia Tevelev. My mathematical interests include combinatorial algebraic geometry and applications to particle physics. In my free time, I rock climb, run, drink coffee, and read comics.
+I'm a third year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io). 
 
-Contact: epratt [symbol] berkeley [symbol] edu
+Contact: fylin [symbol] berkeley [symbol] edu
 
-Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en)
+<!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
-Upcoming and recent travel:
-* Jan 21: Back in Berkeley! 
-* July 7-11: [SIAM AG 2025](https://www.siam.org/conferences-events/siam-conferences/ag25/) (Madison, WI)
+Upcoming travel:
+* July 14-25, [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)
+* May 16-18, [AWM Symposium](https://awm-math.org/meetings/awm-research-symposium/)
+* May 3-4, [URiCA 2025](https://urica-unl.github.io) 
 
-![alt text](/assets/images/oslo2.jpg "Title")
+Past activities:
+* July 2024, [AGGITatE 2024: LMS School on Moduli Theory in Algebraic Geometry]()
+* July 8-19, 2024, [SLMath Graduate Summer School on Algebraic Curves](https://www.slmath.org/summer-schools/1067)
+* June 24-28, 2024, [Women in Algebraic Geometry workshop](https://sites.google.com/view/wiag2024/home?authuser=0)
+
+<!-- ![alt text](/assets/images/oslo2.jpg "Title") -->
