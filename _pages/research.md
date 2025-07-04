@@ -17,6 +17,15 @@ I am broadly interested in algebraic geometry. I'm currently working on some que
 
 <details>
 <summary>
+  Resolving the Singularities of Splitting Loci (<a href = "https://www.arxiv.org/abs/2507.01233">Preprint</a>, <a href = "https://drive.google.com/file/d/1L_sfoP1nyydTrUMkMLXd7u8wnh3ITVM6/view?usp=share_link">Poster</a>).
+</summary>
+<hr>
+We construct modular resolutions of singularities for splitting loci, and use them to show that tame splitting loci have rational singularities. As a corollary of our results and Hurwitz-Brill-Noether theory, we prove that if C is a general k-gonal curve, the components of W^r_d(C) have rational singularities. We also recover the classical Gieseker-Petri theorem. Along the way, we prove a cohomology vanishing statement for certain tautological vector bundles on Quot schemes on P^1, which may be of independent interest.
+<hr>
+</details>
+
+<details>
+<summary>
   <a href = "https://arxiv.org/abs/2112.11839">Two Formulas for F-Polynomials</a>, with Gregg Musiker and Tomoki Nakanishi. International Mathematics Research Notices (2023), rnad074.
 </summary>
 <hr>

@@ -15,11 +15,11 @@ Contact: fylin [symbol] berkeley [symbol] edu
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel:
-* July 14-25, [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)
-* May 16-18, [AWM Symposium](https://awm-math.org/meetings/awm-research-symposium/)
-* May 3-4, [URiCA 2025](https://urica-unl.github.io) 
+* July 8-25, [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)
 
 Past activities:
+* May 2025, [AWM Symposium](https://awm-math.org/meetings/awm-research-symposium/)
+* May 2025, [URiCA 2025](https://urica-unl.github.io) 
 * July 2024, [AGGITatE 2024: LMS School on Moduli Theory in Algebraic Geometry]()
 * July 8-19, 2024, [SLMath Graduate Summer School on Algebraic Curves](https://www.slmath.org/summer-schools/1067)
 * June 24-28, 2024, [Women in Algebraic Geometry workshop](https://sites.google.com/view/wiag2024/home?authuser=0)
