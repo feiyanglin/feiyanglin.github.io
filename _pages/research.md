@@ -3,12 +3,13 @@ title: "Research"
 permalink: /research/
 path: /research/
 date: 2023-2-25
-last_modified_at: 2025-02-13
+last_modified_at: 2025-09-28
 excerpt: "My papers and talks"
 # classes: wide
 image:
 ---
-I am broadly interested in algebraic geometry. I'm currently working on some questions related to splitting loci and Hurwitz stacks of finite covers of P^1. Below are some publications from my undergraduate research.
+<!-- I am an algebraic geometer and my research is motivated by classical questions such as the Brill-Noether theory for curves and rationality questions. I also like learning about moduli spaces and algebraic stacks, such as moduli spaces of vector bundles and Quot schemes.  -->
+I am interested in many different aspects of algebraic geometry. Currently, I am working on some questions related to the singularities of splitting loci, which led me to think about Quot schemes and hyper-Quot schemes on P^1. 
 <!-- \(\mathbb{P}^1\). -->
 
 <!-- ## Ongoing project: -->
