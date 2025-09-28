@@ -8,7 +8,7 @@ last_modified_at: 2025-9-28
 image:
 ---
 
-I'm a fourth year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io). 
+I am a fourth year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io). 
 
 Contact: fylin [symbol] berkeley [symbol] edu
 

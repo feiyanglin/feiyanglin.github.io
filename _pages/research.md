@@ -55,6 +55,15 @@ We examine virtual resolutions of Stanley-Reisner ideals for a product of projec
 
 <details>
   <summary>
+  <a href = "https://scholarship.claremont.edu/hmc_theses/251/">On Rank-Two and Affine Cluster Algebras</a>, Undergraduate Senior Thesis (2021).
+</summary>
+<hr>
+In this report, we study the representations of the Schur cover of the eleven (untwisted) finite groups of Lie type whose Schur multiplier is non-trivial.
+<hr>
+</details>
+
+<details>
+  <summary>
   <a href = "https://www-users.cse.umn.edu/~reiner/REU/DaoKenshurLinMengStierYostWolff2019.pdf">Metaplectic Analogues of Gelfand-Graev Models</a>, with Q. D. Vu, N. Kenshur, C. Meng, Z. Stier, C. Yost-Wolff. REU report (2019)
 </summary>
 <hr>
