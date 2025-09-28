@@ -58,7 +58,7 @@ We examine virtual resolutions of Stanley-Reisner ideals for a product of projec
   <a href = "https://scholarship.claremont.edu/hmc_theses/251/">On Rank-Two and Affine Cluster Algebras</a>, Undergraduate Senior Thesis (2021).
 </summary>
 <hr>
-In this report, we study the representations of the Schur cover of the eleven (untwisted) finite groups of Lie type whose Schur multiplier is non-trivial.
+Motivated by existing results about the Kronecker cluster algebra, this thesis is concerned with two families of cluster algebras, which are two different ways of generalizing the Kronecker case: rank-two cluster algebras, and cluster algebras of type A_{n,1}. Regarding rank-two cluster algebras, our main result is a conjectural bijection that would prove the equivalence of two combinatorial formulas for cluster variables of rank-two skew-symmetric cluster algebras. We identify a technical result that implies the bijection and make partial progress towards its proof. We then shift gears to study certain power series which arise as limits of ratios of F-polynomials in cluster algebras of type A_{n,1}. 
 <hr>
 </details>
 
