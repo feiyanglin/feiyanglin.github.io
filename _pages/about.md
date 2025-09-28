@@ -15,7 +15,7 @@ Contact: fylin [symbol] berkeley [symbol] edu
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel:
-* January 3-8, 2026, [Special Session in Combinatorics and Moduli Spaces, at the Joint Math Meetings](https://jointmathematicsmeetings.org/jmm)
+* January 3-8, 2026, [JMM Special Session on Combinatorics and Moduli Spaces](https://jointmathematicsmeetings.org/jmm)
 
 Past activities:
 * July 2025 [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)
