@@ -15,6 +15,7 @@ Contact: fylin [symbol] berkeley [symbol] edu
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel:
+* March 28-29, 2026, [AMS Spring Eastern Sectionals, Special session on Moduli and Syzygies of Algebraic Curves](https://www.ams.org/meetings/sectional/2331_program.html)
 * January 3-8, 2026, [JMM Special Session on Combinatorics and Moduli Spaces](https://jointmathematicsmeetings.org/jmm)
 
 Past activities:
