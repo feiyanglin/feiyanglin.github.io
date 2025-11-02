@@ -18,6 +18,15 @@ I am interested in many different aspects of algebraic geometry. Currently, I am
 
 <details>
 <summary>
+  <a href = "https://arxiv.org/abs/2510.26044">When are splitting loci Gorenstein?</a>
+</summary>
+<hr>
+Splitting loci are certain natural closed substacks of the stack of vector bundles on P^1, which have found interesting applications in the Brill-Noether theory of k-gonal curves. In this paper, we completely characterize when splitting loci, as algebraic stacks, are Gorenstein or ℚ-Gorenstein. The main ingredients of the proof are a computation of the class groups of splitting loci in certain affine extension spaces, and a formula for the class of their canonical module.
+<hr>
+</details>
+
+<details>
+<summary>
   Resolving the Singularities of Splitting Loci (<a href = "https://www.arxiv.org/abs/2507.01233">Preprint</a>, <a href = "https://drive.google.com/file/d/1L_sfoP1nyydTrUMkMLXd7u8wnh3ITVM6/view?usp=share_link">Poster</a>).
 </summary>
 <hr>
