@@ -18,6 +18,15 @@ I am interested in many different aspects of algebraic geometry. Currently, I am
 
 <details>
 <summary>
+  <a href = "https://arxiv.org/abs/2511.03519">A Borel-Weil-Bott Theorem for Quot Schemes on P^1</a>, with Ajay Gautam and <a href = "https://users.ictp.it/~ssinha1/">Shubham Sinha</a>.
+</summary>
+<hr>
+We study the cohomology groups of tautological bundles on Quot schemes over the projective line, which parametrize rank r quotients of a vector bundle V on P^1. Our main result is an analogue of the Borel-Weil-Bott theorem for Quot schemes. As a corollary, we prove recent conjectures of Marian, Oprea, and Sam on the exterior and symmetric powers of tautological bundles.
+<hr>
+</details>
+
+<details>
+<summary>
   <a href = "https://arxiv.org/abs/2510.26044">When are splitting loci Gorenstein?</a>
 </summary>
 <hr>
