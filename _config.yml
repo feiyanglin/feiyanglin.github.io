@@ -103,7 +103,7 @@ author:
   avatar           : "assets/images/myface.jpeg"
   bio              : "林飞扬 / 林飛揚"
   location         : "Evans 745"
-  email            : fylin@berkeley.edu
+  # email            : fylin@berkeley.edu
   github           : feiyanglin
   ORCiD            : https://orcid.org/0000-0003-0775-7009
   links:
