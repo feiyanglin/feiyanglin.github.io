@@ -9,7 +9,7 @@ excerpt: "My papers and talks"
 image:
 ---
 <!-- I am an algebraic geometer and my research is motivated by classical questions such as the Brill-Noether theory for curves and rationality questions. I also like learning about moduli spaces and algebraic stacks, such as moduli spaces of vector bundles and Quot schemes.  -->
-I am interested in many different aspects of algebraic geometry. Currently, I am working on some questions related to the singularities of splitting loci, which led me to think about Quot schemes and hyper-Quot schemes on P^1. I have also been thinking about the derived category of homogeneous projective bundles over abelian varieties.
+I am interested in many different aspects of algebraic geometry. Much of my recent work has been about certain degeneracy loci that arise from a family of vector bundles on P^1, which are called splitting loci. I am also working on questions about the derived category of homogeneous projective bundles over abelian varieties.
 <!-- \(\mathbb{P}^1\). -->
 
 <!-- ## Ongoing project: -->
