@@ -8,20 +8,22 @@ last_modified_at: 2026-02-05
 image:
 ---
 
-I am a fourth year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io). 
+I am a fourth year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io).
 
 Contact: fylin [symbol] berkeley [symbol] edu
 
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel and activities:
+* May 1st, 2026, giving a talk at the Algebra and Number Theory seminar at UC Santa Cruz
+* April 23rd, 2026, giving a talk at the MMARGS seminar at Colorado State
+
+<!-- 
+Past activities:
 * March 28-29, 2026, [AMS Spring Eastern Sectionals, Special session on Moduli and Syzygies of Algebraic Curves](https://www.ams.org/meetings/sectional/2331_program.html)
 * March 17, 2026, giving a talk in the Berkeley CAAG seminar
 * March 7-8, 2026, WAGS in San Diego
 * March 2-5, 2026, visiting Ohio State University
-
-<!-- 
-Past activities:
 * January 3-8, 2026, [JMM Special Session on Combinatorics and Moduli Spaces](https://jointmathematicsmeetings.org/jmm)
 * July 2025 [Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)
 * May 2025, [AWM Symposium](https://awm-math.org/meetings/awm-research-symposium/)
