@@ -2,24 +2,26 @@
 title: " "
 permalink: /
 path: /
-date: 2026-02-05
-last_modified_at: 2026-02-05
+date: 2026-07-25
+last_modified_at: 2026-07-25
 # excerpt: ""
 image:
 ---
 
-I am a fourth year PhD student working in algebraic geometry at UC Berkeley, where I am fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io).
+I am a Tamarkin Assistant Professor (postdoc) at Brown University, mentored by Eric Larson and Isabel Vogt. Before Brown, I did my PhD at UC Berkeley, where I was fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io).
 
-Contact: fylin [symbol] berkeley [symbol] edu
+Institutional Email: feiyang_lin@brown.edu
+Permanent Email: fylin.math@gmail.com
 
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel and activities:
-* May 1st, 2026, giving a talk at the Algebra and Number Theory seminar at UC Santa Cruz
-* April 23rd, 2026, giving a talk at the MMARGS seminar at Colorado State
+* July 23-30, 2026, attending ICM 2026
 
 <!-- 
 Past activities:
+* May 1st, 2026, giving a talk at the Algebra and Number Theory seminar at UC Santa Cruz
+* April 23rd, 2026, giving a talk at the MMARGS seminar at Colorado State
 * March 28-29, 2026, [AMS Spring Eastern Sectionals, Special session on Moduli and Syzygies of Algebraic Curves](https://www.ams.org/meetings/sectional/2331_program.html)
 * March 17, 2026, giving a talk in the Berkeley CAAG seminar
 * March 7-8, 2026, WAGS in San Diego
