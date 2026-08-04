@@ -8,18 +8,20 @@ last_modified_at: 2026-07-25
 image:
 ---
 
-I am a Tamarkin Assistant Professor (postdoc) at Brown University, mentored by Eric Larson and Isabel Vogt. Before Brown, I did my PhD at UC Berkeley, where I was fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io).
+I am a Tamarkin Assistant Professor at Brown University, mentored by Eric Larson and Isabel Vogt. Before Brown, I did my PhD at UC Berkeley, where I was fortunate to be jointly advised by [Hannah Larson](https://math.berkeley.edu/~hlarson/) and [David Eisenbud](https://eisenbud.github.io).
 
 Institutional Email: feiyang_lin@brown.edu
+
 Permanent Email: fylin.math@gmail.com
 
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel and activities:
-* July 23-30, 2026, attending ICM 2026
+* Oct. 14th, giving a talk at the University of Kentucky
 
 <!-- 
 Past activities:
+* July 23-30, 2026, attending ICM 2026
 * May 1st, 2026, giving a talk at the Algebra and Number Theory seminar at UC Santa Cruz
 * April 23rd, 2026, giving a talk at the MMARGS seminar at Colorado State
 * March 28-29, 2026, [AMS Spring Eastern Sectionals, Special session on Moduli and Syzygies of Algebraic Curves](https://www.ams.org/meetings/sectional/2331_program.html)
