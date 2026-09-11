@@ -17,8 +17,9 @@ Permanent Email: fylin.math@gmail.com
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel and activities:
-* Sep. 30th, giving a talk at the University of Kentucky
-* Oct. 30th, giving a talk at Cornell University
+* Sep. 30, giving a talk at the University of Kentucky
+* Oct. 30, giving a talk at Cornell University
+* May 17-21, 2027, attending [Workshop on Geometry and Combinatorics of Schubert Calculus](https://www.crmath.ca/en/activities/#/type/activity/id/4111)
 
 <!-- 
 Past activities:
