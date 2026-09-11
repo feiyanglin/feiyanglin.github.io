@@ -17,7 +17,8 @@ Permanent Email: fylin.math@gmail.com
 <!-- Google scholar: [link](https://scholar.google.com/citations?user=1VJcY6gAAAAJ&hl=en) -->
 
 Upcoming travel and activities:
-* Oct. 14th, giving a talk at the University of Kentucky
+* Sep. 30th, giving a talk at the University of Kentucky
+* Oct. 30th, giving a talk at Cornell University
 
 <!-- 
 Past activities:
